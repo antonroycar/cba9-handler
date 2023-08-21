@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CBA9 Handler</string>
+    <string name="clear_balance">Clear Balance</string>
+    <string name="close_port">Close Port</string>
+    <string name="disable">Disable</string>
+    <string name="enable">Enable</string>
+    <string name="open_port">Open Port</string>
+</resources>
